@@ -6,6 +6,7 @@ public class git {
         System.out.println("hello git ！！！");
         System.out.println("hello git ！！！");
         System.out.println("hello git ！！！");
+        //打印了i的10倍数
         test();
     }
     public static void test(){
